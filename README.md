@@ -6,7 +6,7 @@ Submitted by: **Cristian Sanchez**
 Email: Kristianss27@gmail.com
 LinkedIn: https://www.linkedin.com/in/kristianss27
 
-Time spent: **6** hours spent in total
+Time spent: **16** hours spent in total
 
 ## User Stories
 
