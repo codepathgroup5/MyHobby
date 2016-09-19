@@ -32,7 +32,7 @@ The following **additional** features will be implemented soon:
 
 ## Video Walkthrough 
 
-<img src='http://imgur.com/RMf7fHq' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='http://i.imgur.com/RMf7fHq.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
