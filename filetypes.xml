@@ -1,8 +1,9 @@
 <application>
-  <component name="FileTypeManager" version="16">
+  <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="menu" type="XML" />
       <mapping pattern="menu_main" type="XML" />
+      <mapping pattern="EditTextStyle" type="XML" />
     </extensionMap>
   </component>
 </application>
